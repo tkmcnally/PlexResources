@@ -1,0 +1,34 @@
+{
+	"Channels": [
+		{
+			"Name": "TSN",
+			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn1/schedules",
+			"Feed": "http://ams-lp5.9c9media.com/hds-live/streams/livepkgr/events/_definst_/liveevent/tsn1.bootstrap",
+			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png"
+		},
+		{
+			"Name": "TSN2",
+			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn2/schedules",
+			"Feed": "http://ams-lp5.9c9media.com/hds-live/streams/livepkgr/events/_definst_/liveevent/tsn2.bootstrap",
+			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_2_aug2014.png"
+		},
+		{
+			"Name": "TSN3",
+			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn3/schedules",
+			"Feed": "http://ams-lp5.9c9media.com/hds-live/streams/livepkgr/events/_definst_/liveevent/tsn3.bootstrap",
+			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png"
+		},
+		{
+			"Name": "TSN4",
+			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn4/schedules",
+			"Feed": "http://ams-lp5.9c9media.com/hds-live/streams/livepkgr/events/_definst_/liveevent/tsn4.bootstrap",
+			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png"
+		},
+		{
+			"Name": "TSN5",
+			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn5/schedules",
+			"Feed": "http://ams-lp5.9c9media.com/hds-live/streams/livepkgr/events/_definst_/liveevent/tsn5.bootstrap",
+			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png"
+		}
+	]
+}
